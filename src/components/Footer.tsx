@@ -3,7 +3,7 @@ export default function Footer() {
   return (
     <>
       <footer
-        aria-label="Footer"
+        aria-label="Footer "
         className="container mx-auto desktop:px-4 tablet:px-[40px] px-[24px] flex justify-between pb-[91px] desktop:mt-[202px] tablet:mt-[183px] mt-[64px] tablet:flex-row flex-col max-tablet:gap-y-16"
       >
         <div className="flex gap-x-[138px] desktop:flex-row flex-col gap-y-8">
